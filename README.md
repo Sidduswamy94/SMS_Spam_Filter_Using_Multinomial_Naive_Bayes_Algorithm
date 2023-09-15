@@ -1,1 +1,3 @@
 # SMS_Spam_Filter_Using_Multinomial_Naive_Bayes_Algorithm
+
+The project aims to develop a highly accurate SMS spam filter to classify messages as spam or non-spam. I have collected this dataset from Kaggle and implemented comprehensive data cleaning techniques, including NLP and Regular Expressions, to preprocess the text data. And Converted text messages into numerical vectors using CountVectorizer and converted labels as numeric vectors by using get_dummies. Implemented the Multinomial Naive Bayes Algorithm to perform classification. Achieved a remarkable accuracy rate of 97% in accurately identifying spam and non-spam messages.
